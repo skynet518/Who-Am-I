@@ -45,22 +45,9 @@ Designed to turn multimodel AI capabilities into a repeatable creative productio
 
 I focus on turning emerging AI capabilities into usable products, workflows and decision systems.
 
-### 🍊 [Citrus for Mac / 橘子](https://github.com/skynet518/citrus-mac)
-**Native macOS File Utility**
+**Native macOS Tools · File Conversion · Image Editing**
 
-`Swift` · `SwiftUI` · `AppKit` · `Local File Processing` · `MIT Open Source`
-
-An independently built macOS utility that brings file conversion, image cropping,
-background editing, and other common actions into a radial menu.
-Files are processed locally, and original files are preserved.
-
-**Status:** Open-source preview. Version 1.1.0 adds a desktop citrus button and native glass UI.
-Its installed local build recorded **108 PASS / 0 FAIL / 0 SKIP**;
-physical Finder drops, button movement, and desktop-layer behavior remain pending acceptance.
-
-[Source code](https://github.com/skynet518/citrus-mac) ·
-[1.1.0 UI preview](https://github.com/skynet518/citrus-mac/tree/codex/desktop-glass-ui) ·
-[UI review & test results](https://github.com/skynet518/citrus-mac/blob/codex/desktop-glass-ui/docs/UI_REVIEW_1_1.md)
+I build practical desktop tools like [Citrus for Mac / 橘子](https://github.com/skynet518/citrus-mac) to simplify file conversion and image editing.
 
 ---
 
