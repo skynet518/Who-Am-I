@@ -1,4 +1,6 @@
-# Hi, I'm Kris 👋
+# Who Am I?
+
+Hi, I'm Kris 👋
 
 ### AI Product Manager · AI Product Builder
 
